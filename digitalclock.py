@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import *// importing the necessary library 
 from time import *
 
 def update():
