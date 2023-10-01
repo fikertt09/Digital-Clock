@@ -1,4 +1,4 @@
-from tkinter import *// importing the necessary library 
+3from tkinter import *// importing the necessary library 
 from time import *
 
 def update():
@@ -47,3 +47,5 @@ Text_label.pack()
 update()
 
 window.mainloop()
+
+//end
